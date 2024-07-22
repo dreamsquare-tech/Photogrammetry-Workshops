@@ -51,7 +51,7 @@
 
 - ### 4.3. Roblox[^3]
 
-    Roblox（ロブロックス）は、たくさんのゲームが集まったインターネット上の遊び場です。このゲームでは、プレイヤーが自分のキャラクターを使って、色々な3D空間で遊ぶことができます。最近では、「くら寿司」や「IKEA」がRoblox上に食事や買い物を体験できる空間を公開し、注目を集めています。
+    Roblox（ロブロックス）は、たくさんのゲームが集まったインターネット上の遊び場です。このゲームでは、プレイヤーが自分のキャラクターを使って、色々な3D空間で遊ぶことができます。最近では、"くら寿司"[^3.1]や"IKEA"[^3.2]がRoblox上に食事や買い物を体験できる空間を公開し、注目を集めています。
 
 ## 5. 3Dモデルの作り方（2種類紹介）
 
@@ -127,6 +127,8 @@
 [^1]:<https://www.minecraft.net/ja-jp>
 [^2]:<https://www.fortnite.com/>
 [^3]:<https://www.roblox.com/ja>
+[^3.1]:<https://www.roblox.com/ja/games/17125064572/KURASUSHI-WORLD>
+[^3.2]:<https://www.roblox.com/ja/games/17254019855/IKEA-The-Co-Worker>
 [^4]:<https://www.blender.org/>
 [^5]:<https://poly.cam/>
 [^6]:<https://scaniverse.com/>
