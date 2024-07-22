@@ -76,13 +76,13 @@
 
     polycamは世界で最も使用されているフォトグラメトリのアプリです。詳しい使い方は以下のリンクを参照してください。
 
-    [polycam使い方][^6]
+    [polycam使い方](polycam-Manual.md)
 
 - ### 6.2 [Scaniverse][^7] 使って3Dモデルを作る方法
 
     polycamは世界で最も使用されているフォトグラメトリのアプリです。詳しい使い方は以下のリンクを参照してください。
 
-    [Scaniverse使い方][^8]
+    [Scaniverse使い方](Scaniverse-Manual.md)
 
 ## 7. フォトグラメトリの仕組み
 
@@ -115,7 +115,5 @@
 [^3]:<https://www.roblox.com/ja>
 [^4]:<https://www.blender.org/>
 [^5]:<https://poly.cam/>
-[^6]:<polycam-Manual.md>
 [^7]:<https://scaniverse.com/>
-[^8]:<Scaniverse-Manual.md>
 [^9]:<https://dreamsquare.tech>
