@@ -1,5 +1,7 @@
 # Scaniverseの使い方
 
+[株式会社DREAMSQUARE](https://dreamsquare.tech)　黒田　隆史（くろだ　たかし）
+
 ![株式会社DREAMSQUARE](image/Lesson_top1.png)
 
 ## 0. Scaniverse概要
