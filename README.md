@@ -12,4 +12,4 @@
     [Polycamを使用したフォトグラメトリの手順](Polycam-Manual.md)
 
 - ### フォトグラメトリツール（Scaniverse）利用マニュアル
-    [Polycamを使用したフォトグラメトリの手順](Scaniverse-Manual.md)
+    [Scaniverseを使用したフォトグラメトリの手順](Scaniverse-Manual.md)
